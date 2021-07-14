@@ -22,7 +22,7 @@
 <param ve-entity eid="Q8698"> <!--Great depression  -->
 <param ve-entity eid="Q44700"> <!-- european war -->
 <param ve-entity eid="Q7318"> <!--  Third Riech-->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q23559"> <!-- Benito Mussolini -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
@@ -74,6 +74,11 @@ Congress, however – although both houses were controlled by the Democrats – 
 
 In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. In addition, the slow recovery from the Great Depression, with continuing high unemployment and farm problems, seemed to demand a concentration of effort on recovery at home rather than adventures abroad.
 <param ve-image 
+       label="In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. " 
+       description="Americans seniment agenst war" 
+       license="public domain" 
+       url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-50457003-79bdff5.jpg?webp=true&quality=90&resize=620%2C409">
+<param ve-image 
        label="Unemployed men outside a soup kitchen in Depression-era Chicago, Illinois, the US, 1931." 
        description="Picture of the great depression" 
        license="public domain" 
@@ -92,12 +97,19 @@ The situation changed drastically in May and June 1940. Many Americans had expec
        description="Hitler in front of the eiffle tower" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Adolf_Hitler_in_Paris_1940.jpg/1024px-Adolf_Hitler_in_Paris_1940.jpg">
+       
+       
+       
+       
+       
+       
+       
 
 
  portrayed there.[^1]
  
 <param ve-image 
-       label="Hitler visits Paris with architect Albert Speer (left) and sculptor Arno Breker (right), 23 June 1940" 
+       label="" 
        description="" 
        license="public domain" 
        url="">
