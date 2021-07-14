@@ -128,15 +128,21 @@ Roosevelt nevertheless moved cautiously; there would be a Presidential election 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PresidentialCounty1940Colorbrewer.gif/2560px-PresidentialCounty1940Colorbrewer.gif">       
   
+ ## No clear mandate for war
        
-       
-       
+Victory at the polls allowed the re-elected Roosevelt more freedom of action, but not a mandate to go to war. He did not want to fight Germany and Italy without wide backing. Instead he used his presidential powers to implement a decidedly one-sided neutrality. Already in September 1940 he had provided 50 obsolete American destroyers to Britain. Now, in the winter of 1940–41 he declared that America would be an “Arsenal of Democracy”, and he succeeded by March 1941 in putting through Congress Lend-Lease legislation, providing arms to Britain without direct payment. 
+<param ve-image 
+       label="resident Roosevelt signs the Lend-Lease bill to give aid to Britain and China (March 1941)." 
+       description="Signing of the lend-lease act" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Franklin_D._Roosevelt-1941.jpg">
+
 
 
  portrayed there.[^1]
  
 <param ve-image 
-       label="" 
+       label="P" 
        description="" 
        license="public domain" 
        url="">
