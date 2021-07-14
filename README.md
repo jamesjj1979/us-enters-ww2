@@ -158,6 +158,26 @@ The intelligence available to Washington, mainly from communications intercepts 
        description="Japanes attack plan on Pearl Harbor" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pearlmap1.png/1024px-Pearlmap1.png">
+<param ve-image 
+       label="The sinking of the Arizona" 
+       description="The Arizona sinking" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg/1920px-The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg">
+       <param ve-image 
+       label="West Virginia was sunk by six torpedoes and two bombs during the attack." 
+       description="The sinking of the West Virginia." 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/USS_West_Virginia2.jpg/1920px-USS_West_Virginia2.jpg">
+
+
+
+
+
+
+
+
+
+
 
 
  portrayed there.[^1]
