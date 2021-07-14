@@ -145,10 +145,14 @@ Secret staff talks were arranged in Washington early in 1941 between British and
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-56453569-f990902.jpg?webp=true&quality=90&resize=503%2C413">
 <param ve-map center="Q48335" zoom="4" prefer-geojson>
 
-## Pearl Harbor: did Roosevelt have knowledge ahead of the attack?
+## Pearl Harbor: Did Roosevelt have knowledge ahead of the attack?
 
-
-
+The intelligence available to Washington, mainly from communications intercepts by American codebreakers, is a complex topic. Some conspiracy theorists claimed that President Roosevelt had advance warning of the Pearl Harbor attack but let it go ahead, as the outcome would be to rally US public opinion for war; this is certainly not true. The intelligence on hand did indicate imminent Japanese action in southeast Asia (probably against Britain), but not the daring strike against Pearl Harbor.
+<param ve-image 
+       label="Photograph taken from a Japanese plane during the torpedo attack on ships moored on both sides of Ford Island shortly after the beginning of the Pearl Harbor attack. View looks about east, with the supply depot, submarine base and fuel tank farm in the right center distance. A torpedo has just hit USS West Virginia on the far side of Ford Island (center)" 
+       description="picture of pearl harbor from a Japanes attack craft" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1920px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg">
 
 
 
