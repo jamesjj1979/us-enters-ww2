@@ -15,7 +15,7 @@
 <param ve-entity eid="Q34296"> <!--woodrow wilson  -->
 <param ve-entity eid="Q127091"> <!--Pearl Harbor  -->
 <param ve-entity eid="Q8007"> <!--FDR-->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q2122297"> <!-- quarenteen speech -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
