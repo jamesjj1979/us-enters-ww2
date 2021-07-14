@@ -178,7 +178,12 @@ One day after the Pearl Harbor attack the us declared war on the empire of Japan
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-514080362-142af7b.jpg?webp=true&quality=90&resize=518%2C413">
 
-
+Equally remarkable was the conduct of the European Axis. Roosevelt knew from messages decrypted in the week before Pearl Harbor that Germany and Italy were now prepared to go to war with the US if Japan did so. Shrewdly, in his famous “Day of Infamy” speech before Congress on 8 December, he did not call for a declaration of war against them, but only against Japan. In this way Germany and Italy were manoeuvred into taking the first step, declaring war on 11 December.
+<param ve-image 
+       label="Roosevelt delivers the speech to Congress. Behind him are Vice President Henry A. Wallace (left) and Speaker of the House Sam Rayburn. To the right, in uniform in front of Rayburn, is Roosevelt's son James, who escorted his father to the Capitol, and served as a Marine Corps officer during World War II." 
+       description=" Roosevelt's day of infammy speach" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fdr_delivers_speech.jpg">
 
 
 
