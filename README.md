@@ -30,12 +30,12 @@ The beginning of World War I was simpler than the beginning of World War II. Aug
       
 The American entry into World War I was also simpler than the American entry into World War II. By 1917 there was only limited opposition to taking part in the conflict. In April President Woodrow Wilson asked Congress for a declaration of war against Germany, largely in response to Berlin’s policy of unrestricted submarine warfare (sinking merchant ships without warning). The declaration was passed by 82 votes to 6 in the Senate, and by 373 to 50 in the House of Representatives. But the neutral USA entered World War II only after many months of argument in Congress and among the general public, and only when a Japanese fleet launched a big surprise air raid against its Pacific naval base at Pearl Harbor in Hawaii on 7 December 1941.
 <param ve-image 
-       label="" 
-       description="" 
+       label="Astronaut photograph of Pearl Harbor from October 2009" 
+       description="map of pearl habor from space." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ISS021-E-15710_Pearl_Harbor%2C_Hawaii.jpg/1920px-ISS021-E-15710_Pearl_Harbor%2C_Hawaii.jpg">    <param ve-image 
-       label="" 
-       description="" 
+       label="Seen in 1986 with Ford Island in center. The Arizona memorial is the small white dot on the left side above Ford Island" 
+       description="Pearl Harbor pic with rhe uss Arizona" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
 
