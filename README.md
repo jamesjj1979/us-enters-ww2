@@ -153,13 +153,17 @@ The intelligence available to Washington, mainly from communications intercepts 
        description="picture of pearl harbor from a Japanes attack craft" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1920px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg">
-
+<param ve-image 
+       label="" 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pearlmap1.png/1024px-Pearlmap1.png">
 
 
  portrayed there.[^1]
  
 <param ve-image 
-       label="P" 
+       label="" 
        description="" 
        license="public domain" 
        url="">
