@@ -118,11 +118,16 @@ In the second half of 1940 the US became a vital base of support for Britain, an
       
 Roosevelt nevertheless moved cautiously; there would be a Presidential election in November 1940, and as he was running for an unprecedented third term it could be an uphill fight. He pledged to keep the US out of direct involvement in the war. In the end he took 55% of the popular vote (a decline from 61% in 1936). The Senate remained securely Democratic, but in the House of Representatives the result was only slightly better for the Democrats than in 1938, with the Roosevelt’s party winning 267 seats out of 435. The opposition Republicans won nearly 40% of the seats.
 <param ve-image 
+       label="Results by state explicitly indicating the winning candidate. Blue are for Roosevelt (Democratic) and red are for Willkie (Republican)." 
+       description="States won/lost in the 1940 elsection." 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/7/79/1940_Electoral_Map.png">
+<param ve-image 
     label="Results by county explicitly indicating the percentage for the winning candidate. Shades of blue are for Roosevelt (Democratic) and shades of red are for Willkie (Republican)." 
        description="Presidental election results" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PresidentialCounty1940Colorbrewer.gif/2560px-PresidentialCounty1940Colorbrewer.gif">       
-       
+  
        
        
        
