@@ -44,21 +44,23 @@ The American entry into World War I was also simpler than the American entry int
        description="Pearl Harbor pic with rhe uss Arizona" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
+<param ve-map center="Q127091" zoom="0" prefer-geojson>
 
 
-## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+
+
+
+
+
+
+ portrayed there.[^1]
 <param ve-image 
        label="" 
        description="" 
        license="public domain" 
        url="">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q" zoom="0" prefer-geojson>
 
 ## Multiple viewers
 
