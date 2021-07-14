@@ -17,7 +17,7 @@
 <param ve-entity eid="Q8007"> <!--FDR-->
 <param ve-entity eid="Q2122297"> <!-- quarenteen speech -->
 <param ve-entity eid="Q11268"> <!--us congress  -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q29552"> <!-- Democratic Party -->
 <param ve-entity eid="Q"> <!--  -->
 
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
