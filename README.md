@@ -44,7 +44,7 @@ The American entry into World War I was also simpler than the American entry int
        description="Pearl Harbor pic with rhe uss Arizona" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
-<param ve-map center="Q127091" zoom="3" prefer-geojson>
+<param ve-map center="Q127091" zoom="4" prefer-geojson>
 
 
 
