@@ -137,7 +137,7 @@ Victory at the polls allowed the re-elected Roosevelt more freedom of action, bu
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Franklin_D._Roosevelt-1941.jpg">
 
-Secret staff talks were arranged in Washington early in 1941 between British and American military leaders. In July 1941 Marines were sent to Iceland, relieving a British garrison. In August Roosevelt and Sir Winston Churchill staged a spectacular summit aboard warships off Newfoundland; they issued the Atlantic charter, a joint declaration opposing acts of international aggression and openly condemning Hitler and Nazism. From September the president ordered that the US Navy began escorting British convoys.
+Secret staff talks were arranged in Washington early in 1941 between British and American military leaders. In July 1941 Marines were sent to Iceland, relieving a British garrison. In August Roosevelt and Sir Winston Churchill staged a spectacular summit aboard warships off Newfoundland; they issued the Atlantic charter, a joint declaration opposing acts of international aggression and openly condemning Hitler the Führer of Germany and Nazism. From September the president ordered that the US Navy began escorting British convoys.
 <param ve-image 
        label="Roosevelt and Churchill during the 1941 summit aboard warships off Newfoundland." 
        description="Churchhill and Rosevelt in a meeting" 
