@@ -34,7 +34,7 @@
 <param ve-entity eid="Q7310"> <!--Nazism  -->
 <param ve-entity eid="Q1647775"> <!--CodeBreaker  -->
 <param ve-entity eid="Q334516"> <!-- Declaration of war -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q6028822"> <!-- Day of Infamy speech -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 
