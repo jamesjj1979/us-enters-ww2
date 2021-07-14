@@ -198,7 +198,15 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
        description="WW2 Memorial in washitngton." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aerial_view_of_National_World_War_II_Memorial.jpg/1920px-Aerial_view_of_National_World_War_II_Memorial.jpg">
-<param ve-map center="38°53′21.84″N 77°2′25.86″W" zoom="0" prefer-geojson>
+       <param ve-image 
+       label="Washington and the WW2 Memorial" 
+       description="Washington and the WW2 Memorial" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/d/db/Location_map_Washington%2C_D.C._central.png">
+<param ve-map center="38.8894,-77.040517" zoom="0" prefer-geojson>
+
+
+
 
 
  portrayed there.[^1]
