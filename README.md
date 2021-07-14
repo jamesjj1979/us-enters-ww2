@@ -168,7 +168,15 @@ The intelligence available to Washington, mainly from communications intercepts 
        description="The sinking of the West Virginia." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/USS_West_Virginia2.jpg/1920px-USS_West_Virginia2.jpg">
-
+       
+       
+       
+One day after the Pearl Harbor attack the us declared war on the empire of Japan. The Pearl Harbor raid was very successful for Japan in a military sense. Politically it was idiotic; it was mounted without a declaration of war, in the middle of negotiations, on a Sunday morning, on US territory, with heavy American loss of life. As the British ambassador to Washington put it in his diary: “If war was to come with Japan I can’t imagine any way in which they could have acted more completely to rally, unite and infuriate American opinion.”
+<param ve-image 
+       label="President Roosevelt, wearing a black armband, signs the United States’ declaration of war against Japan." 
+       description="Roosevelt declaring war on Japan" 
+       license="public domain" 
+       url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-514080362-142af7b.jpg?webp=true&quality=90&resize=518%2C413">
 
 
 
