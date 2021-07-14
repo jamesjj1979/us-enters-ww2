@@ -9,10 +9,16 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q361"> <!-- ww1 -->
+<param ve-entity eid="Q362"> <!-- ww2 -->
+<param ve-entity eid="Q34296"> <!--woodrow wilson  -->
+<param ve-entity eid="Q127091"> <!--  -->
+<param ve-entity eid="Q"> <!--Pearl Harbor-->
+<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q"> <!--  -->
 
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
 
