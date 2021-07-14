@@ -28,8 +28,8 @@
 <param ve-entity eid="Q4796425"> <!--Arsenal of Democracy  -->
 <param ve-entity eid="Q207637"> <!-- Land Lease -->
 <param ve-entity eid="Q1227663"> <!--Direct Paymeny  -->
-<param ve-entity eid="Q"> <!--  -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q8016"> <!--Winston Churchill  -->
+<param ve-entity eid="Q48335"> <!-- Newfoundland -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
@@ -143,7 +143,7 @@ Secret staff talks were arranged in Washington early in 1941 between British and
        description="Churchhill and Rosevelt in a meeting" 
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-56453569-f990902.jpg?webp=true&quality=90&resize=503%2C413">
-
+<param ve-map center="Q48335" zoom="4" prefer-geojson>
 
 
 
