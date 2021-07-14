@@ -185,8 +185,12 @@ Equally remarkable was the conduct of the European Axis. Roosevelt knew from mes
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fdr_delivers_speech.jpg">
 
-
-
+Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi regime made war with America inevitable, and that there was little more the US could do to help Britain anyway. But the important thing was that his decision tied Germany (and Italy) to the perfidious Pearl Harbor attackers, and American public opinion rallied behind the globalwar. A new world order was beginning.
+<param ve-image 
+       label="Hitler announces the declaration of war against the United States to the Reichstag on 11 December 1941" 
+       description="Hitler declaring war on the US" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg/1920px-Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg">
 
 
 
