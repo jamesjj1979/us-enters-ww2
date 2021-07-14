@@ -26,15 +26,28 @@ The beginning of World War I was simpler than the beginning of World War II. Aug
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
+       
+      
+The American entry into World War I was also simpler than the American entry into World War II. By 1917 there was only limited opposition to taking part in the conflict. In April President Woodrow Wilson asked Congress for a declaration of war against Germany, largely in response to Berlin’s policy of unrestricted submarine warfare (sinking merchant ships without warning). The declaration was passed by 82 votes to 6 in the Senate, and by 373 to 50 in the House of Representatives. But the neutral USA entered World War II only after many months of argument in Congress and among the general public, and only when a Japanese fleet launched a big surprise air raid against its Pacific naval base at Pearl Harbor in Hawaii on 7 December 1941.
+<param ve-image 
+       label="" 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ISS021-E-15710_Pearl_Harbor%2C_Hawaii.jpg/1920px-ISS021-E-15710_Pearl_Harbor%2C_Hawaii.jpg">    <param ve-image 
+       label="" 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
+
 
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="" 
+       description="" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="">
 
 ## Map
 
