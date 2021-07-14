@@ -19,7 +19,7 @@
 <param ve-entity eid="Q11268"> <!--us congress  -->
 <param ve-entity eid="Q29552"> <!-- Democratic Party -->
 <param ve-entity eid="Q309310"> <!-- isolationist -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q8698"> <!--Great depression  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
@@ -72,6 +72,7 @@ Congress, however – although both houses were controlled by the Democrats – 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
 
+In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. In addition, the slow recovery from the Great Depression, with continuing high unemployment and farm problems, seemed to demand a concentration of effort on recovery at home rather than adventures abroad.
 
  portrayed there.[^1]
  
@@ -82,12 +83,9 @@ Congress, however – although both houses were controlled by the Democrats – 
        url="">
 <param ve-map center="Q" zoom="0" prefer-geojson>
 
-## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+
+
 
 # References
 
