@@ -84,14 +84,20 @@ In the 1930s many Americans did not want to become ensnared in a bloody war for 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/US_Unemployment_from_1910-1960.svg/1920px-US_Unemployment_from_1910-1960.svg.png">
 
+## Why did America change it's mind?
 
-
+The situation changed drastically in May and June 1940. Many Americans had expected the ‘European War’ to be a protracted conflict, in which the Allies – with larger populations than Germany and global resources – would eventually gain the upper hand. Instead, Hitler’s armed forces unexpectedly won quick victories, knocking France out of the war. The Third Reich took control of western and central Europe; Mussolini’s Italy opened a new front against Britain in the Mediterranean. All this threatened, perhaps in a few months, to defeat the surviving Ally. Now it seemed that unless help was provided America might have to deal on its own with a German-dominated Europe.
+<param ve-image 
+       label="" 
+       description="Hitler in front of the eiffle tower" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Adolf_Hitler_in_Paris_1940.jpg/1024px-Adolf_Hitler_in_Paris_1940.jpg">
 
 
  portrayed there.[^1]
  
 <param ve-image 
-       label="" 
+       label="Hitler visits Paris with architect Albert Speer (left) and sculptor Arno Breker (right), 23 June 1940" 
        description="" 
        license="public domain" 
        url="">
