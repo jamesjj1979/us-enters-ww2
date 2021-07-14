@@ -55,7 +55,7 @@ The outbreak of full-scale conflict between Japan and China in July 1937 had lit
        description="Pick of FDR" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FDR-April-11-1945.jpg/1024px-FDR-April-11-1945.jpg">
-<param ve-map center="Q2122297" zoom="5" prefer-geojson>
+<param ve-map center="Q2122297" zoom="11" prefer-geojson>
 
 
 
