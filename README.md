@@ -2,9 +2,9 @@
 
 <param ve-config 
        title="Americas Entry Into WW2" 
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-U.S._flags_on_the_National_Mall%2C_2007.jpg" 
+       tagline:A historical accounting on why America entered the great war, the circumstances surounding it, and its impact.
+         banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-                     U.S._flags_on_the_National_Mall%2C_2007.jpg" 
        layout="vertical">
-A historical accounting on why America entered the great war, the circumstances surounding it, and its impact.
 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
