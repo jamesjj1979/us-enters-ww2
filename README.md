@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Americas Entry Into WW2" 
-       banner="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fstock-photos%2Famerican.html&psig=AOvVaw3iPr8uNiQMZlW2uK5flf4m&ust=1626313853502000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODbsq654fECFQAAAAAdAAAAABAT" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-U.S._flags_on_the_National_Mall%2C_2007.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
