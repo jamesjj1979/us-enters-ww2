@@ -21,7 +21,7 @@
 <param ve-entity eid="Q309310"> <!-- isolationist -->
 <param ve-entity eid="Q8698"> <!--Great depression  -->
 <param ve-entity eid="Q44700"> <!-- european war -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q7318"> <!--  Third Riech-->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
