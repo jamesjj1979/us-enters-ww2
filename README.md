@@ -154,8 +154,8 @@ The intelligence available to Washington, mainly from communications intercepts 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1920px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg">
 <param ve-image 
-       label="" 
-       description="" 
+       label="The Japanese attacked in two waves. The first wave was detected by United States Army radar at 136 nautical miles (252 km), but was misidentified as United States Army Air Forces bombers arriving from the American mainland. Top: A: Ford Island NAS. B: Hickam Field. C: Bellows Field. D: Wheeler Field. E: Kaneohe NAS. F: Ewa MCAS. R-1: Opana Radar Station. R-2: Kawailoa RS. R-3: Kaaawa RS. G: Haleiwa. H: Kahuku. I: Wahiawa. J: Kaneohe. K: Honolulu. 0: B-17s from mainland. 1: First strike group. 1-1: Level bombers. 1–2: Torpedo bombers. 1–3: Dive bombers. 2: Second strike group. 2-1: Level bombers. 2-1F: Fighters. 2-2: Dive bombers. Bottom: A: Wake Island. B: Midway Islands. C: Johnston Island. D: Hawaii. D-1: Oahu. 1: USS Lexington. 2: USS Enterprise. 3: First Air Fleet." 
+       description="Japanes attack plan on Pearl Harbor" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pearlmap1.png/1024px-Pearlmap1.png">
 
