@@ -31,7 +31,7 @@
 <param ve-entity eid="Q8016"> <!--Winston Churchill  -->
 <param ve-entity eid="Q48335" fill="#5c6609"> <!-- Newfoundland -->
 <param ve-entity eid="Q352"> <!--Adolf Hitler -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q7310"> <!--Nazism  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
