@@ -2,8 +2,7 @@
 
 <param ve-config 
        title="Americas Entry Into WW2" 
-       tagline:"A historical accounting on why America entered the great war, the circumstances surounding it, and its impact."
-         banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-                     U.S._flags_on_the_National_Mall%2C_2007.jpg" 
+        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-                     U.S._flags_on_the_National_Mall%2C_2007.jpg" 
        layout="vertical">
 
 
@@ -15,11 +14,14 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
+
+# America: The Why, How and When along with why they did not enter the war sooner.
+
+
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+
 
 # Basic usage
 
