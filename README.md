@@ -23,7 +23,7 @@
 <param ve-entity eid="Q44700"> <!-- european war -->
 <param ve-entity eid="Q7318"> <!--  Third Riech-->
 <param ve-entity eid="Q23559"> <!-- Benito Mussolini -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q153122"> <!-- Tripartite Pact -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
@@ -98,8 +98,12 @@ The situation changed drastically in May and June 1940. Many Americans had expec
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Adolf_Hitler_in_Paris_1940.jpg/1024px-Adolf_Hitler_in_Paris_1940.jpg">
        
-       
-       
+In the second half of 1940 the US became a vital base of support for Britain, and it grew greatly in importance as a factor in world affairs. In September 1940 Germany and neutral Japan, along with Italy, signed the Tripartite Pact. The intention was to deter the Americans from entering the war, as they had in 1917; the signatories pledged mutual support if the US went to war against any one of them. In the US public opinion was alarmed by Germany’s position in Europe; in addition, the bombing of London and other cities in the summer and autumn of 1940 and increasing submarine attacks on British ships aroused sympathy.
+   <param ve-image 
+       label="Signing ceremony for the Axis Powers Tripartite Pact; seated at front left (left to right) are Japan's Ambassador Saburō Kurusu (leaning forward), Italy's Minister of Foreign Affairs Galeazzo Ciano and Germany's Führer Adolf Hitler (slumping in his chair)." 
+       description="Singing of the axis powers" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/en/a/a0/Signing_ceremony_for_the_Axis_Powers_Tripartite_Pact%3B.jpg">    
        
        
        
