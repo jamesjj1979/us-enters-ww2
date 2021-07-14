@@ -73,6 +73,20 @@ Congress, however – although both houses were controlled by the Democrats – 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
 
 In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. In addition, the slow recovery from the Great Depression, with continuing high unemployment and farm problems, seemed to demand a concentration of effort on recovery at home rather than adventures abroad.
+<param ve-image 
+       label="Unemployed men outside a soup kitchen in Depression-era Chicago, Illinois, the US, 1931." 
+       description="Picture of the great depression" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg/1920px-Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg">
+       <param ve-image 
+       label="Unemployment rate in the US 1910–60, with the years of the Great Depression (1929–39) highlighted; accurate data begins in 1939, represented by a blue line." 
+       description="Uneployment rate in the us between 1910-1960" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/US_Unemployment_from_1910-1960.svg/1920px-US_Unemployment_from_1910-1960.svg.png">
+
+
+
+
 
  portrayed there.[^1]
  
