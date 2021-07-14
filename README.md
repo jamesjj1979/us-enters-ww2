@@ -57,7 +57,12 @@ The outbreak of full-scale conflict between Japan and China in July 1937 had lit
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FDR-April-11-1945.jpg/1024px-FDR-April-11-1945.jpg">
 <param ve-map center="Q2122297" zoom="11" prefer-geojson>
 
-
+Congress, however – although both houses were controlled by the Democrats – contained strong voices opposing intervention. This opposition was based on a long-term ‘isolationist’ tradition, whose adherents did not want America – protected as it was by broad oceans – to become ‘entangled’ with foreign countries and wars overseas. Both in Congress and among the American public, this sentiment had been strengthened by the experience of World War I, which isolationists claimed America had only entered in 1917 because US manufacturers wanted to make a profit by selling munitions.
+<param ve-image 
+       label="Us Congress" 
+       description="A pic of the US congress floor" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
 
 
  portrayed there.[^1]
