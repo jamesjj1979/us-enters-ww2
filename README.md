@@ -13,8 +13,8 @@
 <param ve-entity eid="Q361"> <!-- ww1 -->
 <param ve-entity eid="Q362"> <!-- ww2 -->
 <param ve-entity eid="Q34296"> <!--woodrow wilson  -->
-<param ve-entity eid="Q127091"> <!--  -->
-<param ve-entity eid="Q"> <!--Pearl Harbor-->
+<param ve-entity eid="Q127091"> <!--Pearl Harbor  -->
+<param ve-entity eid="Q8007"> <!--FDR-->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q"> <!--  -->
