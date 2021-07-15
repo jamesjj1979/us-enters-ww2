@@ -147,6 +147,7 @@ Secret staff talks were arranged in Washington early in 1941 between British and
        label="Roosevelt and Churchill during the 1941 summit aboard warships off Newfoundland." 
        description="Churchhill and Rosevelt in a meeting" 
        license="public domain" 
+       fit+"scale-down"
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-56453569-f990902.jpg?webp=true&quality=90&resize=503%2C413">
 <param ve-map center="Q48335" zoom="4" prefer-geojson>
 
