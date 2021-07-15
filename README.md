@@ -88,7 +88,8 @@ In the 1930s many Americans did not want to become ensnared in a bloody war for 
 <param ve-image 
        label="In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. " 
        description="Americans seniment agenst war" 
-       license="public domain" 
+       license="public domain"
+       fit="scale-down"
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-50457003-79bdff5.jpg?webp=true&quality=90&resize=620%2C409">
 <param ve-image 
        label="Unemployed men outside a soup kitchen in Depression-era Chicago, Illinois, the US, 1931." 
@@ -98,7 +99,8 @@ In the 1930s many Americans did not want to become ensnared in a bloody war for 
        <param ve-image 
        label="Unemployment rate in the US 1910–60, with the years of the Great Depression (1929–39) highlighted; accurate data begins in 1939, represented by a blue line." 
        description="Uneployment rate in the us between 1910-1960" 
-       license="public domain" 
+       license="public domain"
+       fit="scale-down"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/US_Unemployment_from_1910-1960.svg/1920px-US_Unemployment_from_1910-1960.svg.png">
 
 ## Why did America change it's mind?
