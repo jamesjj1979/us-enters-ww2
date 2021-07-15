@@ -35,7 +35,7 @@
 <param ve-entity eid="Q1647775"> <!--CodeBreaker  -->
 <param ve-entity eid="Q334516"> <!-- Declaration of war -->
 <param ve-entity eid="Q6028822"> <!-- Day of Infamy speech -->
-<param ve-entity eid="Q"> <!--  -->
+<param ve-entity eid="Q916958"> <!--presidents park  -->
 <param ve-entity eid="Q"> <!--  -->
 
 
@@ -210,7 +210,7 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
        description="Washington and the WW2 Memorial" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/d/db/Location_map_Washington%2C_D.C._central.png">
-<param ve-map center="38.8894,-77.040517" zoom="15" title="WW2 memorial is located just under the presidents park" show-label="true" prefer-geojson>
+<param ve-map center="Q916958" zoom="15" title="WW2 memorial is located just under the presidents park" show-label="true" prefer-geojson>
 
 
 
