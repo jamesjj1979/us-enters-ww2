@@ -110,6 +110,7 @@ The situation changed drastically in May and June 1940. Many Americans had expec
        label="Hitler visits Paris with architect Albert Speer (left) and sculptor Arno Breker (right), 23 June 1940" 
        description="Hitler in front of the eiffle tower" 
        license="public domain" 
+       fit="scale-down"
        url="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Adolf_Hitler_in_Paris_1940.jpg/1024px-Adolf_Hitler_in_Paris_1940.jpg">
        
 In the second half of 1940 the US became a vital base of support for Britain, and it grew greatly in importance as a factor in world affairs. In September 1940 Germany and neutral Japan, along with Italy, signed the Tripartite Pact. The intention was to deter the Americans from entering the war, as they had in 1917; the signatories pledged mutual support if the US went to war against any one of them. In the US public opinion was alarmed by Germany’s position in Europe; in addition, the bombing of London and other cities in the summer and autumn of 1940 and increasing submarine attacks on British ships aroused sympathy.
@@ -124,6 +125,7 @@ Roosevelt nevertheless moved cautiously; there would be a Presidential election 
        label="Results by state explicitly indicating the winning candidate. Blue are for Roosevelt (Democratic) and red are for Willkie (Republican)." 
        description="States won/lost in the 1940 elsection." 
        license="public domain" 
+       fit="scale-down"
        url="https://upload.wikimedia.org/wikipedia/commons/7/79/1940_Electoral_Map.png">
 <param ve-image 
     label="Results by county explicitly indicating the percentage for the winning candidate. Shades of blue are for Roosevelt (Democratic) and shades of red are for Willkie (Republican)." 
