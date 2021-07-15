@@ -224,7 +224,7 @@ Here is the timeline!!
 
 
 
- portrayed there.[^1]
+
  
 <param ve-image 
        label="" 
@@ -239,4 +239,3 @@ Here is the timeline!!
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
