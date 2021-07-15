@@ -149,7 +149,7 @@ Secret staff talks were arranged in Washington early in 1941 between British and
        license="public domain" 
        fit+"scale-down"
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-56453569-f990902.jpg?webp=true&quality=90&resize=503%2C413">
-<param ve-map center="Q48335" zoom="4" prefer-geojson>
+<param ve-map center="Q48335" title="Newfoundland" zoom="4" prefer-geojson>
 
 ## Pearl Harbor: Did Roosevelt have knowledge ahead of the attack?
 
