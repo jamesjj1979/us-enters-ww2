@@ -73,7 +73,7 @@ The outbreak of full-scale conflict between Japan and China in July 1937 had lit
        label="Last photograph of Roosevelt, taken April 11, 1945, the day before his death" 
        description="Pick of FDR" 
        license="public domain" 
-       zoom="-4"
+       fit="scale-down"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FDR-April-11-1945.jpg/1024px-FDR-April-11-1945.jpg">
 <param ve-map center="Q2122297" zoom="11" prefer-geojson>
 
