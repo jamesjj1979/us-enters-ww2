@@ -207,7 +207,7 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
 
 ## Brief overview of Germany's moves during WW2
 
-Where the timeline is supposed to be working
+
 <param ve-knightlab-timeline="" source="10moSvUjc8eE0YlKTUBGgrhBmEX_nq0Sg3TOCntdZyo8&font=Default&lang=en&initial_zoom=2&height=650" timenav-position="bottom" hash-bookmark="false" initial-zoom="0" height="550">
 
 
