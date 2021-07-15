@@ -209,9 +209,6 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
 
 https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10moSvUjc8eE0YlKTUBGgrhBmEX_nq0Sg3TOCntdZyo8&font=Default&lang=en&initial_zoom=2&height=650
    <param ve-knightlab-timeline
-       label="Washington and the WW2 Mem" 
-       description="Washington and the WW2 Memorial" 
-       license="public domain" 
        url="
 https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10moSvUjc8eE0YlKTUBGgrhBmEX_nq0Sg3TOCntdZyo8&font=Default&lang=en&initial_zoom=2&height=650">
 
