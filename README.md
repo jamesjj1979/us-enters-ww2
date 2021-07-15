@@ -199,7 +199,7 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg/1920px-Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg">
        
- There was many factors contributing to the United States and there late entry into the World War 2. I hope that you enjoyed this article.
+ There was many factors contributing to the United States and there late entry into the ww2. I hope that you enjoyed this article.
 <param ve-image 
        label="Aerial view of the World War II Memorial" 
        description="WW2 Memorial in washitngton." 
