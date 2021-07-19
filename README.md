@@ -200,6 +200,9 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg/1920px-Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg">
        
  There was many factors contributing to the United States and there late entry into the ww2. I hope that you enjoyed this article.
+<param ve-map center="Q916958" zoom="15" title="WW2 memorial is located just under the presidents park"  prefer-geojson>
+ <param ve-compare="" sync="" url="https://upload.wikimedia.org/wikipedia/commons/d/db/Location_map_Washington%2C_D.C._central.png">
+       <param ve-compare="" url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aerial_view_of_National_World_War_II_Memorial.jpg/1920px-Aerial_view_of_National_World_War_II_Memorial.jpg">
 <param ve-image 
        label="Aerial view of the World War II Memorial" 
        description="WW2 Memorial in washitngton." 
@@ -210,9 +213,7 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
        description="Washington and the WW2 Memorial" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/d/db/Location_map_Washington%2C_D.C._central.png">
-<param ve-map center="Q916958" zoom="15" title="WW2 memorial is located just under the presidents park"  prefer-geojson>
- <param ve-compare="" sync="" url="https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/15/gpi-linn-typspe-01-19/linn0003/linn-hs959-3.jp2">
-       <param ve-compare="" url="https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/16/gpi-bm-typspe-01-68/bm0007/bm000628767.jp2">
+
 
 
 
